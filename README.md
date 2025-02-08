@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I am a front end developer with over a year of experience in building UIs and crafting web solutions using JavaScript and supporting tools. I have experience in taking leadership roles in projects and I can also work well in a team. I like to have fun along the way and I love challenges and the thrill of rising up to the occasion when they arise. My goal is to become deep and diverse in tech and in order to reach that, I embrace and am always open constant learning.
+I am a front end developer with about 2 years of experience in building UIs and crafting web solutions using JavaScript and supporting tools. I have experience in taking leadership roles in projects and I can also work well in a team. I like to have fun along the way and I love challenges and the thrill of rising up to the occasion when they arise. My goal is to become deep and diverse in tech and in order to reach that, I embrace and am always open constant learning.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [dannyobito05@gmail.com](mailto:dannyobito05@gmail.com)
